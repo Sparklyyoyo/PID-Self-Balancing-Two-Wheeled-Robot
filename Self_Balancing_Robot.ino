@@ -1,13 +1,13 @@
 /*
- * Self-Balancing Robot with BLE Control
- * Code Author: Joey Negm
- * Project Partners: Sydney Doung, Bruno Brett
- * Features:
- *  - PID balancing using Arduino BMI270 IMU
- *  - BLE remote control (forward, backward, left, right)
- *  - Real-time dual display (TFT + LCD)
- *  - Power monitoring via Hall-effect current sensor
- *  - Safety cutoffs for tilt angle
+ --- Self-Balancing Robot with BLE Control
+ --- Code Author: Joey Negm
+ --- Project Partners: Sydney Doung, Bruno Brett
+ --- Features:
+ --- PID balancing using Arduino BMI270 IMU
+ --- BLE remote control (forward, backward, left, right)
+ --- Real-time dual display (TFT + LCD)
+ --- Power monitoring via Hall-effect current sensor
+ --- Safety cutoffs for tilt angle
  */
 
 #include <Arduino_BMI270_BMM150.h>
